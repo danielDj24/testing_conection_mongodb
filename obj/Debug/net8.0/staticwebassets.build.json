@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UNeSily5beCauNJxT9Fs7U6mKZtzjZTOfYUv38XDBeY=",
+  "Source": "testingMongoLocal",
+  "BasePath": "_content/testingMongoLocal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
