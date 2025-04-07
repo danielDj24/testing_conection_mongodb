@@ -37,3 +37,4 @@ C:\Users\liset\Documents\testing_netcore_with_mongo\testingMongoLocal\obj\Debug\
 C:\Users\liset\Documents\testing_netcore_with_mongo\testingMongoLocal\obj\Debug\net8.0\testingMongoLocal.pdb
 C:\Users\liset\Documents\testing_netcore_with_mongo\testingMongoLocal\obj\Debug\net8.0\testingMongoLocal.genruntimeconfig.cache
 C:\Users\liset\Documents\testing_netcore_with_mongo\testingMongoLocal\obj\Debug\net8.0\ref\testingMongoLocal.dll
+C:\Users\liset\Documents\testing_netcore_with_mongo\testingMongoLocal\obj\Debug\net8.0\testingMongoLocal.sourcelink.json

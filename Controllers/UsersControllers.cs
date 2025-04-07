@@ -23,6 +23,7 @@ namespace testingMongoLocal.Controllers
         [HttpPost]
         public async Task<IActionResult> Post(User user)
         {
+            user.Id = null;
             await _repo.AddAsync(user);
             return CreatedAtAction(nameof(Get), new { id = user.Id }, user);
         }
